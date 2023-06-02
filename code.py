@@ -1,5 +1,5 @@
-""" File:           running code
-    Author:         iiaballoongroup
+""" File:           Spectrograph control software
+    Author:         agsreejith
     Last change:    2014/10/11
 
  
